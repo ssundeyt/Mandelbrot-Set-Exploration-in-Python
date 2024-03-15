@@ -39,4 +39,8 @@ A simple yet amazing Mandelbrot exploration script in python!
    NOTE: I have provided some scripts that generate different parts of the set (e.g. startfish.py, elepthantvalley.py etc.) But you can make your own ones by just changing the coordinates
 
 # Additional Notes
-In the project, I have provided 
+In the project, I have provided constantzoom.py. That, when ran, will create a folder inside the main file called "mandelbrot-zoom..." LET THAT SCRIPT RUN if you want a zooming GIF of the set. The script will, when done, remove the folder and export all the images to a GIF that you can open and watch the zoom!
+
+I have also provided a few other scripts (e.g. elephantvalley.py starfish.py and many more). When ran, these will output a single image of that sequence. The image should be displayed within you IDE (you dont need to open them manually as with the GIF)
+
+You, as a user, 
