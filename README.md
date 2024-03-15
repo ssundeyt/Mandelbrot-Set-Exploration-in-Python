@@ -15,14 +15,22 @@ A simple yet amazing Mandelbrot exploration script in python!
    ```
    Replace <repository-url> with the actual URL of this GitHub repository.
 
-2. **Install Required Packages**
+2. **Install Build Tools**
+
+   To build the Cython module, you need the correct build tools.
+
+   You can get VS Build tool from here: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+   Run the installer and select the "C++ build tools" workload. (top left option)
+
+3. **Install Required Packages**
 
    Install the necessary packages using pip:
    ```
    pip install -r requirements.txt
    ```
 
-3. **Prepare the Cython Extension**
+4. **Prepare the Cython Extension**
 
    Ensure the .pyx Cython file (mandelbrot_cy.pyx) is in your project directory along with the setup.py file for compiling the Cython code.
    Compile the Cython code by running:
@@ -31,7 +39,7 @@ A simple yet amazing Mandelbrot exploration script in python!
    ```
    (this should be ran inside a terminal in your IDE)
 
-4. **Running the Project**
+5. **Running the Project**
 
    Open the Python script (converted from your Jupyter notebook) in your IDE or text editor. If using PyCharm, you can simply open the project directory to access and run the script.
    Ensure your IDE's Python interpreter is set to the one from your virtual environment to access the installed packages.
