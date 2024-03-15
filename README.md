@@ -17,7 +17,7 @@ A simple yet amazing Mandelbrot exploration script in python!
 
    You can also download the code from GitHub, doesnt matter.
 
-3. **Install Build Tools**
+2. **Install Build Tools**
 
    To build the Cython module, you need the correct build tools.
 
@@ -25,7 +25,8 @@ A simple yet amazing Mandelbrot exploration script in python!
 
    Run the installer and select the "C++ build tools" workload. (top left option)
 
-4. **CD Inside the Install Location**
+3. **CD Inside the Install Location**
+   
    Open CMD and cd inside the location where you installed the script, e.g:
    ```
    cd C:\Users\yourUser\Mandelbrot-Set-Exploration-in-Python
