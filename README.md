@@ -5,6 +5,9 @@ A simple yet amazing Mandelbrot exploration script in python!
 - Python (version 3.6 or newer)
 - An IDE like PyCharm or VSCode (optional, but recommended for ease of development)
 
+# Video Guide !
+https://www.youtube.com/watch?v=3EavsWr0UMQ
+
 # Step-by-Step Instructions
 
 1. **Clone the Repository**
