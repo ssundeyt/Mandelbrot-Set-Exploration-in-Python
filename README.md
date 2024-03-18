@@ -3,11 +3,13 @@ MAJOR UPDATE!!!
 
 The installation process is now 100% automated! I have build a C# UI to setup, load and modify the scripts automatically, no coding experience needed!!
 
-Here is the download for the entire thing: https://www.mediafire.com/file/px7h1oy63025wd3/Mandelbrot+set+UI.zip/file
+Here is the download for the entire thing: https://www.mediafire.com/file/ew7pod36myc5fs2/Mandelbrot_Set_UI_ssundeyt.zip/file
 
 Just unzip it and go!
 
-The C# forms app is included in the repo
+The C# forms app is included in the repo.
+
+New UPDATED video HERE: 
 
 # Prerequisites
 - Python (version 3.6 or newer)
