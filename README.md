@@ -9,7 +9,9 @@ Just unzip it and go!
 
 The C# forms app is included in the repo.
 
-# Work in progress: Currently working on implementing a 'create' section for the C# app. The purpose is to let the user select an area of interest in the set and change the amount of iterations, color etc. That will generate a .py script than will be run on command. Preview of the function:
+# Work in progress
+
+Currently working on implementing a 'create' section for the C# app. The purpose is to let the user select an area of interest in the set and change the amount of iterations, color etc. That will generate a .py script than will be run on command. Preview of the function:
 
 ![alt text](https://i.gyazo.com/c1d03e1e83dd4fbec53b76897f779f55.png)
 
