@@ -9,7 +9,7 @@ Just unzip it and go!
 
 The C# forms app is included in the repo.
 
-New UPDATED video HERE: 
+New UPDATED video HERE: https://www.youtube.com/watch?v=sAHj_IFxF3Q
 
 # Prerequisites
 - Python (version 3.6 or newer)
