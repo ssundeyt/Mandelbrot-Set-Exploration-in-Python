@@ -3,7 +3,7 @@ MAJOR UPDATE!!!
 
 The installation process is now 100% automated! I have build a C# UI to setup, load and modify the scripts automatically, no coding experience needed!!
 
-Here is the download for the entire thing: https://www.mediafire.com/file/ew7pod36myc5fs2/Mandelbrot_Set_UI_ssundeyt.zip/file
+Here is the download for the entire thing: https://www.mediafire.com/file/2yx3p5helllcrsd/Mandelbrot-Set-UI.zip/file
 
 Just unzip it and go!
 
